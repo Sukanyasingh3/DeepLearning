@@ -50,5 +50,4 @@ Welcome to my Deep Learning repository! This collection showcases my work in the
 - Description: Focused on speech emotion recognition, this project employs deep learning techniques to identify and classify emotions in spoken language. The notebook showcases the application of neural networks for audio-based emotion analysis.
 
 
-
 ### Feel free to explore the notebooks and delve into the exciting world of deep learning. If you have any questions or feedback, please don't hesitate to reach out. Happy coding!

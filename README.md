@@ -2,12 +2,29 @@
 
 Welcome to my Deep Learning repository! This collection showcases my work in the field of deep learning, including various projects and implementations. Feel free to explore the following notebooks:
 
-# Project List:
+# List:
 
 ## 1. Asteroid Hazard Classification
 
-- File: `Asteroid_Hazard_Classification.ipynb`
-- Description: This project focuses on asteroid hazard classification using deep learning techniques. The notebook explores the application of neural networks for identifying potential asteroid threats.
+File: `Asteroid Risk Prediction`
+
+Description: This project focuses on asteroid hazard classification using deep learning techniques. The notebook explores the application of neural networks for identifying potential asteroid threats.It also includes asteroid Hazard Classification and Orbit Clustering.
+
+- Code:
+
+| Notebook | Description|
+|----------|----------|
+| `Asteroid_Hazard_Classification.ipynb` | Sequential Classification model to predict whether an asteroid is hazardous |
+| `Hazard_Classification.ipynb` | Using KMeans to perform Asteroid orbit clustering |
+
+- Result:
+
+| Folder | Result|
+|----------|----------|
+| `Hazard Classification` | Folder Containing Accuracy plot and Confusion matrix of Hazard Classification model |
+| `Orbit Clustering` | Folder containing 2D & 3D plot graph of Asteroid orbit clustering |
+  
+  
 
 ## 2. Block Chain Adoption Cost Prediction
 

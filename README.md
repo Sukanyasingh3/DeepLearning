@@ -26,10 +26,24 @@ Description: This project focuses on asteroid hazard classification using deep l
   
   
 
-## 2. Block Chain Adoption Cost Prediction
+## 2. Brain Tumour Detection
 
-- File: `Block_chain_Adoption_Cost_Prediction.ipynb`
+- File: `Brain Tumour Detection`
 - Description: Predicting the adoption cost of blockchain technology is the goal of this project. The notebook delves into the use of deep learning models to estimate the costs associated with blockchain adoption.
+
+- Code:
+
+| Notebook | Description|
+|----------|----------|
+| `Brain_Tumor_Detection.ipynb` | Classification of MRI Scans using Transfer Learning with ResNet50 |
+| `Brain_Tumor_Detection.ipynb` | Classification of MRI Scans using a self made CNN Model |
+
+- Result:
+
+| Folder | Result|
+|----------|----------|
+| `CNN` | Folder Containing Accuracy plot and Loss Plot of CNN Model |
+| `ResNet50` | Folder Containing Accuracy plot and Loss Plot of ResNet50 Model |
 
 ## 3. Cat vs Dog Image Classification
 

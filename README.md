@@ -56,12 +56,11 @@ Description: This project focuses on asteroid hazard classification using deep l
 |----------|----------|
 | `Fire_Detection_for_CCTV.ipynb` | Classification of CCTV Images using a self made CNN Model |
 
-- Result:
+- Dataset:
 
-| Folder | Result|
+| Folder | Description|
 |----------|----------|
-| `CNN` | Folder Containing Accuracy plot and Loss Plot of CNN Model |
-| `ResNet50` | Folder Containing Accuracy plot and Loss Plot of ResNet50 Model |
+| `Dataset.md` | Link for kaggle dataset used|
 
 ## 3. Cat vs Dog Image Classification
 

@@ -45,6 +45,13 @@ Description: This project focuses on asteroid hazard classification using deep l
 | `CNN` | Folder Containing Accuracy plot and Loss Plot of CNN Model |
 | `ResNet50` | Folder Containing Accuracy plot and Loss Plot of ResNet50 Model |
 
+## 3. CCTV Fire Detection
+
+- File: `CCTV Fire Detection`
+- Description: CNN model for fire detection using CCTV footage, built using TensorFlow and Keras, and is designed to classify whether a given image footage contains fire or not.
+
+
+
 ## 3. Cat vs Dog Image Classification
 
 - File: `Cat_vs_Dog.ipynb`

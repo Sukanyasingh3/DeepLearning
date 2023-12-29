@@ -50,7 +50,18 @@ Description: This project focuses on asteroid hazard classification using deep l
 - File: `CCTV Fire Detection`
 - Description: CNN model for fire detection using CCTV footage, built using TensorFlow and Keras, and is designed to classify whether a given image footage contains fire or not.
 
+- Code:
 
+| Notebook | Description|
+|----------|----------|
+| `Fire_Detection_for_CCTV.ipynb` | Classification of CCTV Images using a self made CNN Model |
+
+- Result:
+
+| Folder | Result|
+|----------|----------|
+| `CNN` | Folder Containing Accuracy plot and Loss Plot of CNN Model |
+| `ResNet50` | Folder Containing Accuracy plot and Loss Plot of ResNet50 Model |
 
 ## 3. Cat vs Dog Image Classification
 

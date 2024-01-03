@@ -64,8 +64,14 @@ Description: This project focuses on asteroid hazard classification using deep l
 
 ## 3. Cat vs Dog Image Classification
 
-- File: `Cat_vs_Dog.ipynb`
+- File: `Cat vs Dog Classifier`
 - Description: Using deep learning, this project tackles the classic problem of classifying images as either a cat or a dog. The notebook demonstrates image classification techniques and model training for this binary classification task.
+
+- Code:
+
+| Notebook | Description|
+|----------|----------|
+| `Cat_vs_Dog.ipynb` | Classification of images fo cats and dogs using a simple neural network |
 
 ## 4. Customer Churn Prediction
 

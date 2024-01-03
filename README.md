@@ -75,8 +75,21 @@ Description: This project focuses on asteroid hazard classification using deep l
 
 ## 4. Customer Churn Prediction
 
-- File: `Customer_Churn_Prediction.ipynb`
+- File: ``
 - Description: Addressing the challenge of predicting customer churn, this project employs deep learning algorithms. The notebook explores how neural networks can be applied to forecast customer attrition.
+
+- Code:
+
+| Notebook | Description|
+|----------|----------|
+| `Customer_Churn_Prediction.ipynb` | Customer Churn Prediction using a simple neural network |
+
+- Result:
+
+| Folder | Result|
+|----------|----------|
+| `Result` | Confusion matrix of the predicted values |
+
 
 ## 5. Fire Detection for CCTV
 

@@ -91,12 +91,7 @@ Description: This project focuses on asteroid hazard classification using deep l
 | `Result` | Confusion matrix of the predicted values |
 
 
-## 5. Fire Detection for CCTV
-
-- File: `Fire_Detection_for_CCTV.ipynb`
-- Description: This project focuses on utilizing deep learning for fire detection in CCTV footage. The notebook demonstrates the application of neural networks to identify and classify fire incidents in surveillance videos.
-
-## 6. Fracture Detection with InceptionV3
+## 6. Fracture Detection
 
 - File: `Fracture_Detection_InceptionV3.ipynb`
 - Description: Fracture detection is the key focus of this project, leveraging the InceptionV3 architecture. The notebook explores the use of a pre-trained deep learning model for accurate identification of fractures in medical images.

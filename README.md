@@ -106,7 +106,7 @@ Description: This project focuses on asteroid hazard classification using deep l
 | `Fracture-own_model1.ipynb` | Fracture Detection using own CNN Model |
 | `Fracture-own_model2.ipynbb` | Fracture Detection using own CNN Model |
 | `Fracture_InceptionV3.ipynb` | Fracture Detection using InceptionV3 model through transfer learning (Highest Accuracy) |
-| `Haar_Cascade.ipynb` | Customer Churn Prediction using a simple neural network |
+| `Haar_Cascade.ipynb` | Frcature Detection using red box with Haar Cascades |
 | `InceptionV3_Final.ipynb` | Customer Churn Prediction using a simple neural network |
 
 ## 7. Handwritten Digits Classification

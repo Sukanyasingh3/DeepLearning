@@ -96,6 +96,19 @@ Description: This project focuses on asteroid hazard classification using deep l
 - File: `Fracture_Detection_InceptionV3.ipynb`
 - Description: Fracture detection is the key focus of this project, leveraging the InceptionV3 architecture. The notebook explores the use of a pre-trained deep learning model for accurate identification of fractures in medical images.
 
+- Code:
+
+| Notebook | Description|
+|----------|----------|
+| `Fracture-DenseNet121.ipynb` | Fracture Detection using DenseNet21 model throygh transfer learning|
+| `Fracture-Resnet50.ipynb` | Customer Churn Prediction using a simple neural network |
+| `Fracture-Xception.ipynb` | Customer Churn Prediction using a simple neural network |
+| `Fracture-own_model1.ipynb` | Customer Churn Prediction using a simple neural network |
+| `Fracture-own_model2.ipynbb` | Customer Churn Prediction using a simple neural network |
+| `Fracture_InceptionV3.ipynb` | Customer Churn Prediction using a simple neural network |
+| `Haar_Cascade.ipynb` | Customer Churn Prediction using a simple neural network |
+| `InceptionV3_Final.ipynb` | Customer Churn Prediction using a simple neural network |
+
 ## 7. Handwritten Digits Classification
 
 - File: `Handwritten_Digits_Classification.ipynb`

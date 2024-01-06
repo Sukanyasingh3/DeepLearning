@@ -103,8 +103,8 @@ Description: This project focuses on asteroid hazard classification using deep l
 | `Fracture-DenseNet121.ipynb` | Fracture Detection using DenseNet21 model through transfer learning|
 | `Fracture-Resnet50.ipynb` | Fracture Detection using Resnet50 model through transfer learning |
 | `Fracture-Xception.ipynb` | Fracture Detection using Xception model through transfer learning |
-| `Fracture-own_model1.ipynb` | Customer Churn Prediction using a simple neural network |
-| `Fracture-own_model2.ipynbb` | Customer Churn Prediction using a simple neural network |
+| `Fracture-own_model1.ipynb` | Fracture Detection using own CNN Model |
+| `Fracture-own_model2.ipynbb` | Fracture Detection using own CNN Model |
 | `Fracture_InceptionV3.ipynb` | Customer Churn Prediction using a simple neural network |
 | `Haar_Cascade.ipynb` | Customer Churn Prediction using a simple neural network |
 | `InceptionV3_Final.ipynb` | Customer Churn Prediction using a simple neural network |

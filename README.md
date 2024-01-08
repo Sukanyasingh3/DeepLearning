@@ -136,7 +136,7 @@ Description: This project focuses on asteroid hazard classification using deep l
 
 | Notebook | Description|
 |----------|----------|
-| `Plant_disease_diagnosis.ipynb` | Simple classification using a neural network |
+| `Plant_disease_diagnosis.ipynb` | Plant disease detection using transfer learning using ResNet50 |
 
 - Dataset:
 
@@ -150,11 +150,12 @@ Description: This project focuses on asteroid hazard classification using deep l
 |----------|----------|
 | `Model.md` | Model for classification  |
 
-- Dataset:
+- Result:
 
-| Folder | Dataset|
+| Folder | Result |
 |----------|----------|
-| `Dataset.md` | Dataset  |
+| `Accuracy.png` | Accuracy plot the model |
+| `Loss.png` | Loss plot the model   |
 
 ## 9. Speech Emotion Recognition
 

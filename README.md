@@ -136,13 +136,25 @@ Description: This project focuses on asteroid hazard classification using deep l
 
 | Notebook | Description|
 |----------|----------|
-| `Handwritten_Digits_Classification.ipynb` | Simple classification using a neural network |
+| `Plant_disease_diagnosis.ipynb` | Simple classification using a neural network |
 
-- Result:
+- Dataset:
 
-| Folder | Result|
+| Folder | Dataset|
 |----------|----------|
-| `Result` | Confusion matrix of the predicted values |
+| `Dataset.md` | Dataset  |
+
+- Model:
+
+| Folder | Model|
+|----------|----------|
+| `Model.md` | Model for classification  |
+
+- Dataset:
+
+| Folder | Dataset|
+|----------|----------|
+| `Dataset.md` | Dataset  |
 
 ## 9. Speech Emotion Recognition
 

@@ -96,6 +96,7 @@ Description: This project focuses on asteroid hazard classification using deep l
 - File: `Fracture_Detection_InceptionV3.ipynb`
 - Description: Fracture detection is the key focus of this project, leveraging the InceptionV3 architecture. The notebook explores the use of a pre-trained deep learning model for accurate identification of fractures in medical images.
 
+
 - Code:
 
 | Notebook | Description|
@@ -114,10 +115,34 @@ Description: This project focuses on asteroid hazard classification using deep l
 - File: `Handwritten_Digits_Classification.ipynb`
 - Description: This project involves the classification of handwritten digits using deep learning. The notebook showcases the implementation of neural networks for recognizing and distinguishing digits in images.
 
+  - Code:
+
+| Notebook | Description|
+|----------|----------|
+| `Handwritten_Digits_Classification.ipynb` | Simple classification using a neural network |
+
+- Result:
+
+| Folder | Result|
+|----------|----------|
+| `Result` | Confusion matrix of the predicted values |
+
 ## 8. Plant Disease Diagnosis
 
 - File: `Plant_disease_diagnosis.ipynb`
 - Description: Addressing the issue of plant disease, this project utilizes deep learning to diagnose diseases in plants. The notebook demonstrates the application of neural networks for image-based classification of plant health.
+
+  - Code:
+
+| Notebook | Description|
+|----------|----------|
+| `Handwritten_Digits_Classification.ipynb` | Simple classification using a neural network |
+
+- Result:
+
+| Folder | Result|
+|----------|----------|
+| `Result` | Confusion matrix of the predicted values |
 
 ## 9. Speech Emotion Recognition
 

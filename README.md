@@ -154,7 +154,8 @@ Description: This project focuses on asteroid hazard classification using deep l
 
 | Folder | Dataset|
 |----------|----------|
-| `Dataset.md` | Dataset  |
+| `Accuracy.png` | Dataset  |
+| `Loss.png` | Dataset  |
 
 ## 9. Speech Emotion Recognition
 

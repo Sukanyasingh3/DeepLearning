@@ -1,6 +1,6 @@
 # Deep Learning 
 
-Welcome to my Deep Learning repository! This collection showcases my work in the field of deep learning, including various projects and implementations. Feel free to explore the following notebooks:
+Welcome to my Deep Learning repository! This collection showcases my work in the field of deep learning, including various projects and implementations. Feel free to explore the following notebooks
 
 # List:
 

@@ -1,6 +1,6 @@
 # Deep Learning 
 
-Welcome to my Deep Learning repository! This collection showcases my work in the field of deep learning, including various projects and implementations. Feel free to explore the following notebooks:
+Welcome to my Deep Learning repository! This collection showcases my work in the field of deep learning, including various projects and implementations. Feel free to explore the following notebooks
 
 # List:
 
@@ -162,5 +162,29 @@ Description: This project focuses on asteroid hazard classification using deep l
 - File: `Speech Emotion Recognition.ipynb`
 - Description: Focused on speech emotion recognition, this project employs deep learning techniques to identify and classify emotions in spoken language. The notebook showcases the application of neural networks for audio-based emotion analysis.
 
+  - Code:
+
+| Notebook | Description|
+|----------|----------|
+| `Speech Emotion Recognition.ipynb` | LSTM Model to detect the emotion of speech classifying it to 6 catogeries of emotions |
+
+- Dataset:
+
+| Folder | Dataset|
+|----------|----------|
+| `Dataset.md` | Dataset  |
+
+- Model:
+
+| Folder | Model|
+|----------|----------|
+| `Model.md` | Model for classification  |
+
+- Result:
+
+| Folder | Result |
+|----------|----------|
+| `Accuracy.png` | Accuracy plot the model |
+| `Loss.png` | Loss plot the model   |
 
 ### Feel free to explore the notebooks and delve into the exciting world of deep learning. If you have any questions or feedback, please don't hesitate to reach out. Happy coding!

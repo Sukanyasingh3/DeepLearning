@@ -6,7 +6,7 @@ Welcome to my Deep Learning repository! This collection showcases my work in the
 
 ## 1. Anti-cancer cell detetction 
 
-File: `AAnti-cancer cell detetction`
+File: `Anti-cancer cell detetction`
 
 Description: This project focuses on asteroid hazard classification using deep learning techniques. The notebook explores the application of neural networks for identifying potential asteroid threats.It also includes asteroid Hazard Classification and Orbit Clustering.
 

@@ -120,7 +120,13 @@ Description: This project focuses on asteroid hazard classification using deep l
 | `Result` | Confusion matrix of the predicted values |
 
 
-## 6. Fracture Detection
+## 6. Emotion Detection
+
+- File: `Emotion-Detection.ipynb`
+- Description: CNN models that performs classification of facial images into emtions of various classes.
+
+
+## 7. Fracture Detection
 
 - File: `Fracture_Detection_InceptionV3.ipynb`
 - Description: Fracture detection is the key focus of this project, leveraging the InceptionV3 architecture. The notebook explores the use of a pre-trained deep learning model for accurate identification of fractures in medical images.
@@ -139,7 +145,7 @@ Description: This project focuses on asteroid hazard classification using deep l
 | `Haar_Cascade.ipynb` | Frcature Detection using red box with Haar Cascades |
 | `InceptionV3_Final.ipynb` | Final Notebook |
 
-## 7. Handwritten Digits Classification
+## 8. Handwritten Digits Classification
 
 - File: `Handwritten_Digits_Classification.ipynb`
 - Description: This project involves the classification of handwritten digits using deep learning. The notebook showcases the implementation of neural networks for recognizing and distinguishing digits in images.
@@ -156,7 +162,7 @@ Description: This project focuses on asteroid hazard classification using deep l
 |----------|----------|
 | `Result` | Confusion matrix of the predicted values |
 
-## 8. Plant Disease Diagnosis
+## 9. Plant Disease Diagnosis
 
 - File: `Plant_disease_diagnosis.ipynb`
 - Description: Addressing the issue of plant disease, this project utilizes deep learning to diagnose diseases in plants. The notebook demonstrates the application of neural networks for image-based classification of plant health.
@@ -186,7 +192,7 @@ Description: This project focuses on asteroid hazard classification using deep l
 | `Accuracy.png` | Accuracy plot the model |
 | `Loss.png` | Loss plot the model   |
 
-## 9. Speech Emotion Recognition
+## 10. Speech Emotion Recognition
 
 - File: `Speech Emotion Recognition.ipynb`
 - Description: Focused on speech emotion recognition, this project employs deep learning techniques to identify and classify emotions in spoken language. The notebook showcases the application of neural networks for audio-based emotion analysis.

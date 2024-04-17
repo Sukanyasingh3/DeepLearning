@@ -23,15 +23,8 @@ Description: This project focuses on asteroid hazard classification using deep l
 |----------|----------|
 | `Hazard Classification` | Folder Containing Accuracy plot and Confusion matrix of Hazard Classification model |
 | `Orbit Clustering` | Folder containing 2D & 3D plot graph of Asteroid orbit clustering |
-  
 
-
-
-
-
-
-
-
+---
 
 ## 2. Asteroid Hazard Classification
 
@@ -53,7 +46,7 @@ Description: This project focuses on asteroid hazard classification using deep l
 | `Hazard Classification` | Folder Containing Accuracy plot and Confusion matrix of Hazard Classification model |
 | `Orbit Clustering` | Folder containing 2D & 3D plot graph of Asteroid orbit clustering |
   
-  
+---  
 
 ## 3. Brain Tumour Detection
 
@@ -74,6 +67,7 @@ Description: This project focuses on asteroid hazard classification using deep l
 | `CNN` | Folder Containing Accuracy plot and Loss Plot of CNN Model |
 | `ResNet50` | Folder Containing Accuracy plot and Loss Plot of ResNet50 Model |
 
+---
 ## 4. CCTV Fire Detection
 
 - File: `CCTV Fire Detection`
@@ -91,6 +85,7 @@ Description: This project focuses on asteroid hazard classification using deep l
 |----------|----------|
 | `Dataset.md` | Link for kaggle dataset used|
 
+---
 ## 5. Cat vs Dog Image Classification
 
 - File: `Cat vs Dog Classifier`
@@ -102,6 +97,7 @@ Description: This project focuses on asteroid hazard classification using deep l
 |----------|----------|
 | `Cat_vs_Dog.ipynb` | Classification of images fo cats and dogs using a simple neural network |
 
+---
 ## 6. Customer Churn Prediction
 
 - File: ``
@@ -119,12 +115,20 @@ Description: This project focuses on asteroid hazard classification using deep l
 |----------|----------|
 | `Result` | Confusion matrix of the predicted values |
 
+---
 
 ## 7. Emotion Detection
 
 - File: `Emotion-Detection.ipynb`
 - Description: CNN models that performs classification of facial images into emtions of various classes.
 
+-  Code:
+
+| Notebook | Description|
+|----------|----------|
+| `Emotion-Detection.ipynb` | Various CNN models with multiple layers that are performing classification of grascale facial images into classes that represent emotions|
+
+---
 
 ## 8. Fracture Detection
 
@@ -145,6 +149,7 @@ Description: This project focuses on asteroid hazard classification using deep l
 | `Haar_Cascade.ipynb` | Frcature Detection using red box with Haar Cascades |
 | `InceptionV3_Final.ipynb` | Final Notebook |
 
+---
 ## 9. Handwritten Digits Classification
 
 - File: `Handwritten_Digits_Classification.ipynb`
@@ -162,6 +167,7 @@ Description: This project focuses on asteroid hazard classification using deep l
 |----------|----------|
 | `Result` | Confusion matrix of the predicted values |
 
+---
 ## 10. Plant Disease Diagnosis
 
 - File: `Plant_disease_diagnosis.ipynb`
@@ -192,6 +198,7 @@ Description: This project focuses on asteroid hazard classification using deep l
 | `Accuracy.png` | Accuracy plot the model |
 | `Loss.png` | Loss plot the model   |
 
+---
 ## 11. Speech Emotion Recognition
 
 - File: `Speech Emotion Recognition.ipynb`
@@ -221,5 +228,7 @@ Description: This project focuses on asteroid hazard classification using deep l
 |----------|----------|
 | `Accuracy.png` | Accuracy plot the model |
 | `Loss.png` | Loss plot the model   |
+
+---
 
 ### Feel free to explore the notebooks and delve into the exciting world of deep learning. If you have any questions or feedback, please don't hesitate to reach out. Happy coding!

@@ -150,7 +150,27 @@ Description: This project focuses on asteroid hazard classification using deep l
 | `InceptionV3_Final.ipynb` | Final Notebook |
 
 ---
-## 9. Handwritten Digits Classification
+
+## 9. Gender Classification
+
+- File: `Gender_Classification.ipynb`
+- Description: This project involves the classification of instagram profile pictures based on the user's gender. Here, there are 2 classes male and female. 
+
+  - Code:
+
+| Notebook | Description|
+|----------|----------|
+| `Gender_Classification.ipynb` | Classification using transfer learining using the pre-trained model InceptionV3, and adding additional layers on top of the base model |
+| `Cnn.ipynb` | Classification using a CNN model I made myself |
+| `link.ipynb` | Performing Classification using the link of images |
+| `Face Detection.ipynb` | Detecting faces in pfps using the Dlib library, and then classifying the faces using my model |
+
+- Test_Images:
+
+Images used to test the model.
+
+---
+## 10. Handwritten Digits Classification
 
 - File: `Handwritten_Digits_Classification.ipynb`
 - Description: This project involves the classification of handwritten digits using deep learning. The notebook showcases the implementation of neural networks for recognizing and distinguishing digits in images.
@@ -168,7 +188,7 @@ Description: This project focuses on asteroid hazard classification using deep l
 | `Result` | Confusion matrix of the predicted values |
 
 ---
-## 10. Plant Disease Diagnosis
+## 11. Plant Disease Diagnosis
 
 - File: `Plant_disease_diagnosis.ipynb`
 - Description: Addressing the issue of plant disease, this project utilizes deep learning to diagnose diseases in plants. The notebook demonstrates the application of neural networks for image-based classification of plant health.
@@ -199,7 +219,7 @@ Description: This project focuses on asteroid hazard classification using deep l
 | `Loss.png` | Loss plot the model   |
 
 ---
-## 11. Speech Emotion Recognition
+## 12. Speech Emotion Recognition
 
 - File: `Speech Emotion Recognition.ipynb`
 - Description: Focused on speech emotion recognition, this project employs deep learning techniques to identify and classify emotions in spoken language. The notebook showcases the application of neural networks for audio-based emotion analysis.

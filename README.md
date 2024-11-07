@@ -4,7 +4,9 @@ Welcome to my Deep Learning repository! This collection showcases my work in the
 
 # List:
 
-## 1. Anti-cancer cell detetction 
+## 1. Alziemer's detetction 
+
+## 2. Anti-cancer cell detetction 
 
 File: `Anti-cancer cell detetction`
 

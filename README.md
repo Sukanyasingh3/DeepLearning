@@ -5,6 +5,26 @@ Welcome to my Deep Learning repository! This collection showcases my work in the
 # List:
 
 ## 1. Alziemer's detetction 
+File: `Anti-cancer cell detetction`
+
+Description: This project focuses on detecting and classifying MRI Images into 4 different classes of Alziemers using deep CNN models.
+
+- Code:
+
+| Notebook | Description|
+|----------|----------|
+| `Asteroid_Hazard_Classification.ipynb` | Sequential Classification model to predict whether an asteroid is hazardous |
+| `Hazard_Classification.ipynb` | Using KMeans to perform Asteroid orbit clustering |
+
+- Result:
+
+| Folder | Result|
+|----------|----------|
+| `Hazard Classification` | Folder Containing Accuracy plot and Confusion matrix of Hazard Classification model |
+| `Orbit Clustering` | Folder containing 2D & 3D plot graph of Asteroid orbit clustering |
+
+---
+
 
 ## 2. Anti-cancer cell detetction 
 

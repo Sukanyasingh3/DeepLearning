@@ -31,16 +31,7 @@ Description: This project focuses on asteroid hazard classification using deep l
 
 | Notebook | Description|
 |----------|----------|
-| `Asteroid_Hazard_Classification.ipynb` | Sequential Classification model to predict whether an asteroid is hazardous |
-| `Hazard_Classification.ipynb` | Using KMeans to perform Asteroid orbit clustering |
-
-- Result:
-
-| Folder | Result|
-|----------|----------|
-| `Hazard Classification` | Folder Containing Accuracy plot and Confusion matrix of Hazard Classification model |
-| `Orbit Clustering` | Folder containing 2D & 3D plot graph of Asteroid orbit clustering |
-
+| `deep-learning code.ipynb` | Various deep learning models that for anti - cancer cell classification |
 ---
 
 ## 3. Asteroid Hazard Classification

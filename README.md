@@ -4,6 +4,25 @@ Welcome to my Deep Learning repository! This collection showcases my work in the
 
 # List:
 
+## 1. Aerial Segmentation 
+File: `Aerial Segmentation`
+
+Description: This project focuses on instance segmentation of various entities in sattelite aerial imagery.
+
+- Code:
+
+| Notebook | Description|
+|----------|----------|
+| `yolov8.ipynb` | Segmentation using the poly-yolov8 model |
+---
+- Result:
+
+| Folder | Result|
+|----------|----------|
+| `Results` | Folder Containing metrics, plots and outputs |
+
+---
+
 ## 1. Alziemer's detetction 
 File: `Alziemer's Detection`
 

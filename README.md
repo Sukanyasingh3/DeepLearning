@@ -23,7 +23,7 @@ Description: This project focuses on instance segmentation of various entities i
 
 ---
 
-## 1. Alziemer's detetction 
+## 2. Alziemer's detetction 
 File: `Alziemer's Detection`
 
 Description: This project focuses on detecting and classifying MRI Images into 4 different classes of Alziemer's disease using deep CNN models.
@@ -40,7 +40,7 @@ Description: This project focuses on detecting and classifying MRI Images into 4
 | `Xception.ipynb` | Classification using Pre-trained Xception |
 ---
 
-## 2. Anti-cancer cell detetction 
+## 3. Anti-cancer cell detetction 
 
 File: `Anti-cancer cell detetction`
 
@@ -62,7 +62,7 @@ Description: This project focuses on asteroid hazard classification using deep l
 
 ---
 
-## 3. Asteroid Hazard Classification
+## 4. Asteroid Hazard Classification
 
 File: `Asteroid Risk Prediction`
 
@@ -84,7 +84,7 @@ Description: This project focuses on asteroid hazard classification using deep l
   
 ---  
 
-## 4. Brain Tumour Detection
+## 5. Brain Tumour Detection
 
 - File: `Brain Tumour Detection`
 - Description: Predicting the adoption cost of blockchain technology is the goal of this project. The notebook delves into the use of deep learning models to estimate the costs associated with blockchain adoption.
@@ -104,7 +104,7 @@ Description: This project focuses on asteroid hazard classification using deep l
 | `ResNet50` | Folder Containing Accuracy plot and Loss Plot of ResNet50 Model |
 
 ---
-## 5. CCTV Fire Detection
+## 6. CCTV Fire Detection
 
 - File: `CCTV Fire Detection`
 - Description: CNN model for fire detection using CCTV footage, built using TensorFlow and Keras, and is designed to classify whether a given image footage contains fire or not.
@@ -122,7 +122,7 @@ Description: This project focuses on asteroid hazard classification using deep l
 | `Dataset.md` | Link for kaggle dataset used|
 
 ---
-## 6. Cat vs Dog Image Classification
+## 7. Cat vs Dog Image Classification
 
 - File: `Cat vs Dog Classifier`
 - Description: Using deep learning, this project tackles the classic problem of classifying images as either a cat or a dog. The notebook demonstrates image classification techniques and model training for this binary classification task.
@@ -134,7 +134,7 @@ Description: This project focuses on asteroid hazard classification using deep l
 | `Cat_vs_Dog.ipynb` | Classification of images fo cats and dogs using a simple neural network |
 
 ---
-## 7. Customer Churn Prediction
+## 8. Customer Churn Prediction
 
 - File: ``
 - Description: Addressing the challenge of predicting customer churn, this project employs deep learning algorithms. The notebook explores how neural networks can be applied to forecast customer attrition.
@@ -153,7 +153,7 @@ Description: This project focuses on asteroid hazard classification using deep l
 
 ---
 
-## 8. Emotion Detection
+## 9. Emotion Detection
 
 - File: `Emotion-Detection.ipynb`
 - Description: CNN models that performs classification of facial images into emtions of various classes.
@@ -166,7 +166,7 @@ Description: This project focuses on asteroid hazard classification using deep l
 
 ---
 
-## 9. Fracture Detection
+## 10. Fracture Detection
 
 - File: `Fracture_Detection_InceptionV3.ipynb`
 - Description: Fracture detection is the key focus of this project, leveraging the InceptionV3 architecture. The notebook explores the use of a pre-trained deep learning model for accurate identification of fractures in medical images.
@@ -187,7 +187,7 @@ Description: This project focuses on asteroid hazard classification using deep l
 
 ---
 
-## 10. Gender Classification
+## 11. Gender Classification
 
 - File: `Gender_Classification.ipynb`
 - Description: This project involves the classification of instagram profile pictures based on the user's gender. Here, there are 2 classes male and female. 
@@ -206,7 +206,7 @@ Description: This project focuses on asteroid hazard classification using deep l
 Images used to test the model.
 
 ---
-## 11. Handwritten Digits Classification
+## 12. Handwritten Digits Classification
 
 - File: `Handwritten_Digits_Classification.ipynb`
 - Description: This project involves the classification of handwritten digits using deep learning. The notebook showcases the implementation of neural networks for recognizing and distinguishing digits in images.
@@ -224,7 +224,7 @@ Images used to test the model.
 | `Result` | Confusion matrix of the predicted values |
 
 ---
-## 12. Plant Disease Diagnosis
+## 13. Plant Disease Diagnosis
 
 - File: `Plant_disease_diagnosis.ipynb`
 - Description: Addressing the issue of plant disease, this project utilizes deep learning to diagnose diseases in plants. The notebook demonstrates the application of neural networks for image-based classification of plant health.
@@ -255,7 +255,7 @@ Images used to test the model.
 | `Loss.png` | Loss plot the model   |
 
 ---
-## 13. Speech Emotion Recognition
+## 14. Speech Emotion Recognition
 
 - File: `Speech Emotion Recognition.ipynb`
 - Description: Focused on speech emotion recognition, this project employs deep learning techniques to identify and classify emotions in spoken language. The notebook showcases the application of neural networks for audio-based emotion analysis.
